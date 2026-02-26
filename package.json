@@ -1,0 +1,25 @@
+{
+  "name": "api-automation-blueprint",
+  "version": "1.0.0",
+  "description": "Reusable API Automation Framework using Playwright + TypeScript with scalable architecture, environment configs, and validation utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishitag10/api-automation-blueprint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rishitag10/api-automation-blueprint/issues"
+  },
+  "homepage": "https://github.com/rishitag10/api-automation-blueprint#readme",
+  "dependencies": {
+    "@playwright/test": "^1.58.2",
+    "dotenv": "^17.3.1"
+  }
+}
